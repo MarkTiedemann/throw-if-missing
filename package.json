@@ -1,0 +1,26 @@
+{
+  "name": "throw-if-missing",
+  "version": "1.0.0",
+  "description": "Enforce required parameters or options in ES6.",
+  "main": "index.js",
+  "keywords": [
+    "throw",
+    "if",
+    "missing",
+    "required",
+    "parameters",
+    "enforce",
+    "default",
+    "es6"
+  ],
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/throw-if-missing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/throw-if-missing/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/throw-if-missing"
+}
