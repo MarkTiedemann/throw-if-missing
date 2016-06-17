@@ -1,6 +1,6 @@
 {
   "name": "throw-if-missing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enforce required parameters or options in ES6.",
   "main": "index.js",
   "keywords": [

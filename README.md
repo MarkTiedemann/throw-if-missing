@@ -18,7 +18,7 @@ const x = require('throw-if-missing')
 
 const login = ({ username = x`username`, password = x`password` } = {}) => {}
 
-login({ username: 'C-3PO' }) // ==> Error: Missing option: password
+login({ username: 'C-3PO' }) // ==> Error: Missing password
 ```
 
 ## License
